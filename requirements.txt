@@ -1,0 +1,46 @@
+# LangChain
+langchain
+langchain-core
+langchain-community
+
+# Mistral
+langchain-mistralai
+mistralai
+
+# Search
+tavily-python
+
+# Scraping
+beautifulsoup4
+requests
+lxml
+aiohttp
+
+# Async + Retry
+tenacity
+httpx
+
+# Environment Variables
+python-dotenv
+
+# Structured Outputs
+pydantic
+
+# Tokenizer
+tiktoken
+
+# Logging
+rich
+loguru
+
+# Markdown Report Generation
+markdown
+jinja2
+
+# Optional API Backend
+fastapi
+uvicorn
+
+# Data Processing
+pandas
+numpy
